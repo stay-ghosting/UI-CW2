@@ -1,0 +1,602 @@
+{
+  "events_company_list1": {
+    "id": "events_company_list1",
+    "createdBy": "Events Company",
+    "title": "Gaming Events",
+    "image": "https://picsum.photos/id/11/400/300",
+    "events": [
+      {
+        "id": "a1b2c3d4",
+        "title": "Annual Gaming Expo",
+        "date": "2024-07-20",
+        "time": "14:00",
+        "category": "Gaming",
+        "favourite": true
+      },
+      {
+        "id": "e5f6g7h8",
+        "title": "Esports Tournament Finals",
+        "date": "2024-08-15",
+        "time": "17:00",
+        "category": "Gaming",
+        "favourite": false
+      },
+      {
+        "id": "i9j0k1l2",
+        "title": "Retro Gaming Night",
+        "date": "2024-09-25",
+        "time": "19:00",
+        "category": "Gaming",
+        "favourite": true
+      },
+      {
+        "id": "m3n4o5p6",
+        "title": "VR Gaming Experience",
+        "date": "2024-10-10",
+        "time": "12:00",
+        "category": "Gaming",
+        "favourite": false
+      }
+    ]
+  },
+  "events_company_list2": {
+    "id": "events_company_list2",
+    "createdBy": "Events Company",
+    "title": "Dancing Events",
+    "image": "https://picsum.photos/id/22/400/300",
+    "events": [
+      {
+        "id": "q7r8s9t0",
+        "title": "Ballroom Dance Night",
+        "date": "2024-08-01",
+        "time": "20:00",
+        "category": "Dancing",
+        "favourite": true
+      },
+      {
+        "id": "u1v2w3x4",
+        "title": "Salsa Dance Party",
+        "date": "2024-09-12",
+        "time": "21:00",
+        "category": "Dancing",
+        "favourite": false
+      },
+      {
+        "id": "y5z6a7b8",
+        "title": "Hip Hop Dance Battle",
+        "date": "2024-10-05",
+        "time": "18:00",
+        "category": "Dancing",
+        "favourite": true
+      },
+      {
+        "id": "c9d0e1f2",
+        "title": "Dance Workshop Weekend",
+        "date": "2024-11-15",
+        "time": "10:00",
+        "category": "Dancing",
+        "favourite": false
+      }
+    ]
+  },
+  "events_company_list3": {
+    "id": "events_company_list3",
+    "createdBy": "Events Company",
+    "title": "Food and Drink Events",
+    "image": "https://picsum.photos/id/33/400/300",
+    "events": [
+      {
+        "id": "g4h5i6j7",
+        "title": "Wine Tasting Evening",
+        "date": "2024-07-25",
+        "time": "19:00",
+        "category": "Food and Drink",
+        "favourite": true
+      },
+      {
+        "id": "k8l9m0n1",
+        "title": "Gourmet Food Festival",
+        "date": "2024-08-18",
+        "time": "12:00",
+        "category": "Food and Drink",
+        "favourite": false
+      },
+      {
+        "id": "o2p3q4r5",
+        "title": "Craft Beer Fair",
+        "date": "2024-09-20",
+        "time": "16:00",
+        "category": "Food and Drink",
+        "favourite": true
+      },
+      {
+        "id": "s6t7u8v9",
+        "title": "Street Food Extravaganza",
+        "date": "2024-10-30",
+        "time": "11:00",
+        "category": "Food and Drink",
+        "favourite": false
+      }
+    ]
+  },
+  "events_company_list4": {
+    "id": "events_company_list4",
+    "createdBy": "Events Company",
+    "title": "Music Events",
+    "image": "https://picsum.photos/id/44/400/300",
+    "events": [
+      {
+        "id": "w0x1y2z3",
+        "title": "Summer Music Festival",
+        "date": "2024-07-10",
+        "time": "19:00",
+        "category": "Music",
+        "favourite": true
+      },
+      {
+        "id": "a4b5c6d7",
+        "title": "Rock Concert",
+        "date": "2024-08-20",
+        "time": "21:00",
+        "category": "Music",
+        "favourite": false
+      },
+      {
+        "id": "e8f9g0h1",
+        "title": "Jazz Night",
+        "date": "2024-09-05",
+        "time": "18:00",
+        "category": "Music",
+        "favourite": true
+      },
+      {
+        "id": "i2j3k4l5",
+        "title": "Electronic Music Festival",
+        "date": "2024-10-15",
+        "time": "22:00",
+        "category": "Music",
+        "favourite": false
+      }
+    ]
+  },
+  "user1_list1": {
+    "id": "user1_list1",
+    "createdBy": "Alice Johnson",
+    "title": "Community Projects",
+    "image": "https://picsum.photos/id/27/400/300",
+    "events": [
+      {
+        "id": "4c8d5a2f",
+        "title": "Community Cleanup Day",
+        "date": "2024-06-15",
+        "time": "10:00",
+        "category": "Environment",
+        "favourite": true
+      },
+      {
+        "id": "5f6d9a7b",
+        "title": "Local Farmers Market",
+        "date": "2024-08-22",
+        "time": "09:30",
+        "category": "Market",
+        "favourite": false
+      },
+      {
+        "id": "8a7c6d3e",
+        "title": "Neighborhood Block Party",
+        "date": "2024-07-10",
+        "time": "15:00",
+        "category": "Community",
+        "favourite": true
+      },
+      {
+        "id": "2b9d4e6f",
+        "title": "Green Energy Workshop",
+        "date": "2024-09-05",
+        "time": "11:00",
+        "category": "Environment",
+        "favourite": false
+      }
+    ]
+  },
+  "user1_list2": {
+    "id": "user1_list2",
+    "createdBy": "Alice Johnson",
+    "title": "Local Events",
+    "image": "https://picsum.photos/id/33/400/300",
+    "events": [
+      {
+        "id": "6c8d5a2f",
+        "title": "Art Walk Downtown",
+        "date": "2024-07-20",
+        "time": "18:00",
+        "category": "Art",
+        "favourite": true
+      },
+      {
+        "id": "7f8a9b1c",
+        "title": "Summer Concert Series",
+        "date": "2024-08-15",
+        "time": "20:00",
+        "category": "Music",
+        "favourite": false
+      },
+      {
+        "id": "9d3e7a1b",
+        "title": "Historical Walking Tour",
+        "date": "2024-10-01",
+        "time": "14:00",
+        "category": "Education",
+        "favourite": true
+      },
+      {
+        "id": "1b8c9d2e",
+        "title": "Local Theatre Play",
+        "date": "2024-11-12",
+        "time": "19:00",
+        "category": "Theatre",
+        "favourite": false
+      }
+    ]
+  },
+  "user2_list1": {
+    "id": "user2_list1",
+    "createdBy": "Bob Smith",
+    "title": "Music Events",
+    "image": "https://picsum.photos/id/16/400/300",
+    "events": [
+      {
+        "id": "9d3e6b5a",
+        "title": "Summer Music Festival",
+        "date": "2024-07-10",
+        "time": "19:00",
+        "category": "Music",
+        "favourite": true
+      },
+      {
+        "id": "2b8e9d7f",
+        "title": "Jazz Night at the Park",
+        "date": "2024-08-05",
+        "time": "20:00",
+        "category": "Music",
+        "favourite": true
+      },
+      {
+        "id": "5c7d9a3b",
+        "title": "Rock Band Showcase",
+        "date": "2024-09-12",
+        "time": "21:00",
+        "category": "Music",
+        "favourite": false
+      },
+      {
+        "id": "4a8b9c6d",
+        "title": "Classical Music Evening",
+        "date": "2024-10-15",
+        "time": "18:30",
+        "category": "Music",
+        "favourite": true
+      }
+    ]
+  },
+  "user2_list2": {
+    "id": "user2_list2",
+    "createdBy": "Bob Smith",
+    "title": "Tech and Innovation",
+    "image": "https://picsum.photos/id/20/400/300",
+    "events": [
+      {
+        "id": "6c9d5a1b",
+        "title": "Tech Conference 2024",
+        "date": "2024-09-05",
+        "time": "08:00",
+        "category": "Tech",
+        "favourite": false
+      },
+      {
+        "id": "7d3e9a1c",
+        "title": "AI Expo 2024",
+        "date": "2024-10-10",
+        "time": "09:00",
+        "category": "Tech",
+        "favourite": true
+      },
+      {
+        "id": "8e4f5a2d",
+        "title": "Blockchain Seminar",
+        "date": "2024-11-22",
+        "time": "10:00",
+        "category": "Tech",
+        "favourite": false
+      },
+      {
+        "id": "2b6d7c8e",
+        "title": "Innovation Hackathon",
+        "date": "2024-12-15",
+        "time": "13:00",
+        "category": "Tech",
+        "favourite": true
+      }
+    ]
+  },
+  "user3_list1": {
+    "id": "user3_list1",
+    "createdBy": "Carol Davis",
+    "title": "Charity Events",
+    "image": "https://picsum.photos/id/34/400/300",
+    "events": [
+      {
+        "id": "7d6b8e4a",
+        "title": "Charity Gala Night",
+        "date": "2024-10-20",
+        "time": "18:00",
+        "category": "Charity",
+        "favourite": true
+      },
+      {
+        "id": "8e7d6a2b",
+        "title": "Fundraising Dinner",
+        "date": "2024-11-15",
+        "time": "19:30",
+        "category": "Charity",
+        "favourite": false
+      },
+      {
+        "id": "9a8b7c6d",
+        "title": "Charity Run",
+        "date": "2024-12-10",
+        "time": "08:00",
+        "category": "Charity",
+        "favourite": true
+      },
+      {
+        "id": "1b2c3d4e",
+        "title": "Community Outreach Program",
+        "date": "2024-07-25",
+        "time": "14:00",
+        "category": "Charity",
+        "favourite": false
+      }
+    ]
+  },
+  "user3_list2": {
+    "id": "user3_list2",
+    "createdBy": "Carol Davis",
+    "title": "Health and Wellness",
+    "image": "https://picsum.photos/id/42/400/300",
+    "events": [
+      {
+        "id": "3c8b9d4e",
+        "title": "Yoga Wellness Retreat",
+        "date": "2024-08-12",
+        "time": "09:00",
+        "category": "Wellness",
+        "favourite": true
+      },
+      {
+        "id": "7d6b8e4c",
+        "title": "Nutrition Workshop",
+        "date": "2024-09-18",
+        "time": "10:00",
+        "category": "Wellness",
+        "favourite": true
+      },
+      {
+        "id": "9a8b7c5d",
+        "title": "Mental Health Seminar",
+        "date": "2024-10-25",
+        "time": "11:00",
+        "category": "Wellness",
+        "favourite": false
+      },
+      {
+        "id": "1b2c3d6e",
+        "title": "Meditation Session",
+        "date": "2024-11-30",
+        "time": "08:00",
+        "category": "Wellness",
+        "favourite": true
+      },
+      {
+        "id": "2c3d4e5f",
+        "title": "Fitness Bootcamp",
+        "date": "2024-12-20",
+        "time": "07:00",
+        "category": "Wellness",
+        "favourite": false
+      }
+    ]
+  },
+  "user4_list1": {
+    "id": "user4_list1",
+    "createdBy": "David Wilson",
+    "title": "Holiday Events",
+    "image": "https://picsum.photos/id/45/400/300",
+    "events": [
+      {
+        "id": "2b3d7e6f",
+        "title": "Holiday Craft Fair",
+        "date": "2024-12-05",
+        "time": "11:00",
+        "category": "Holiday",
+        "favourite": true
+      },
+      {
+        "id": "3c8d9e7f",
+        "title": "Christmas Parade",
+        "date": "2024-12-15",
+        "time": "16:00",
+        "category": "Holiday",
+        "favourite": true
+      },
+      {
+        "id": "4d7e8f9c",
+        "title": "New Year's Eve Party",
+        "date": "2024-12-31",
+        "time": "20:00",
+        "category": "Holiday",
+        "favourite": true
+      },
+      {
+        "id": "5e8f9c7b",
+        "title": "Thanksgiving Feast",
+        "date": "2024-11-28",
+        "time": "12:00",
+        "category": "Holiday",
+        "favourite": false
+      },
+      {
+        "id": "6f9c8d7e",
+        "title": "Hanukkah Celebration",
+        "date": "2024-12-08",
+        "time": "18:00",
+        "category": "Holiday",
+        "favourite": false
+      }
+    ]
+  },
+  "user4_list2": {
+    "id": "user4_list2",
+    "createdBy": "David Wilson",
+    "title": "Cultural Events",
+    "image": "https://picsum.photos/id/40/400/300",
+    "events": [
+      {
+        "id": "7c8d9e6f",
+        "title": "Art Exhibition Opening",
+        "date": "2024-09-10",
+        "time": "18:00",
+        "category": "Art",
+        "favourite": true
+      },
+      {
+        "id": "8d9e7f6c",
+        "title": "Local Theatre Performance",
+        "date": "2024-10-20",
+        "time": "20:00",
+        "category": "Theatre",
+        "favourite": false
+      },
+      {
+        "id": "9e8f7c6d",
+        "title": "Poetry Reading Night",
+        "date": "2024-11-05",
+        "time": "19:00",
+        "category": "Literature",
+        "favourite": true
+      },
+      {
+        "id": "1a2b3c4d",
+        "title": "Dance Workshop",
+        "date": "2024-12-01",
+        "time": "15:00",
+        "category": "Art",
+        "favourite": false
+      }
+    ]
+  },
+  "user5_list1": {
+    "id": "user5_list1",
+    "createdBy": "Emma Brown",
+    "title": "Tech and Innovation",
+    "image": "https://picsum.photos/id/55/400/300",
+    "events": [
+      {
+        "id": "8f3c9a7b",
+        "title": "Startup Pitch Event",
+        "date": "2024-09-15",
+        "time": "16:00",
+        "category": "Startup",
+        "favourite": true
+      },
+      {
+        "id": "9e5f7d2a",
+        "title": "Science Fair Expo",
+        "date": "2024-08-30",
+        "time": "10:00",
+        "category": "Science",
+        "favourite": false
+      },
+      {
+        "id": "2c8d9e3f",
+        "title": "Innovation Summit",
+        "date": "2024-10-05",
+        "time": "09:00",
+        "category": "Tech",
+        "favourite": true
+      },
+      {
+        "id": "3d9e4f6a",
+        "title": "Future of Tech Webinar",
+        "date": "2024-11-18",
+        "time": "14:00",
+        "category": "Tech",
+        "favourite": false
+      },
+      {
+        "id": "4e5f6a7b",
+        "title": "Tech Expo 2024",
+        "date": "2024-12-10",
+        "time": "11:00",
+        "category": "Tech",
+        "favourite": true
+      }
+    ]
+  },
+  "user5_list2": {
+    "id": "user5_list2",
+    "createdBy": "Emma Brown",
+    "title": "Science and Education",
+    "image": "https://picsum.photos/id/60/400/300",
+    "events": [
+      {
+        "id": "5f6c9a1b",
+        "title": "Science Lecture Series",
+        "date": "2024-07-25",
+        "time": "10:00",
+        "category": "Science",
+        "favourite": true
+      },
+      {
+        "id": "6d7e8f2a",
+        "title": "Astronomy Club Meeting",
+        "date": "2024-08-15",
+        "time": "19:00",
+        "category": "Science",
+        "favourite": false
+      },
+      {
+        "id": "7e8f9c3b",
+        "title": "Mathematics Workshop",
+        "date": "2024-09-22",
+        "time": "15:00",
+        "category": "Education",
+        "favourite": true
+      },
+      {
+        "id": "8f9c6d4e",
+        "title": "History Talk",
+        "date": "2024-10-12",
+        "time": "16:00",
+        "category": "Education",
+        "favourite": false
+      },
+      {
+        "id": "9a8b7c5d",
+        "title": "Philosophy Symposium",
+        "date": "2024-11-07",
+        "time": "13:00",
+        "category": "Education",
+        "favourite": true
+      },
+      {
+        "id": "1b2c3d6e",
+        "title": "Psychology Seminar",
+        "date": "2024-12-05",
+        "time": "11:00",
+        "category": "Education",
+        "favourite": false
+      }
+    ]
+  }
+}
