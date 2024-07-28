@@ -1,12 +1,12 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Home from './page/Home';
-import Login from './page/Login';
-import Register from './page/Register';
-import Dashbord from './page/Dashbord';
-import EventList from './page/EventList';
-import { useEffect } from 'react';
-import Following from './page/Following';
-import sampleData from './data/SampleData.json'
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Home from "./page/Home";
+import Login from "./page/Login";
+import Register from "./page/Register";
+import Dashbord from "./page/Dashbord";
+import EventList from "./page/EventList";
+import { useEffect } from "react";
+import Following from "./page/Following";
+import sampleData from "./data/SampleData.json";
 
 function App() {
   useEffect(() => {
@@ -18,7 +18,7 @@ function App() {
   }, []);
 
   return (
-    <Router>
+    <Router basename="/UI-CW2/">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/login" element={<Login />} />
